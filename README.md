@@ -6,7 +6,7 @@
   
 <h3>I'm a Full Stack Developer from Guatemala</h3>
 
-<h3>Tecnologies:</h3>
+<h3>Tecnologies:</h3>:
 <img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" height="50px"></img>
 <img src="https://github.com/Naotari/Naotari/blob/master/CSS-3-01.jpg" alt="CSS" height="50px"></img>
 <img src="https://github.com/Naotari/Naotari/blob/master/HTML-5-logo-vector-01.jpg" alt="HTML" height="50px"></img>
