@@ -7,11 +7,16 @@
 <h3>I'm a Full Stack Developer from Guatemala</h3>
 
 Tecnologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/CSS-3-01.jpg" alt="CSS" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/HTML-5-logo-vector-01.jpg" alt="HTML" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/JavaScript-01.jpg" alt="JS" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Node-JS-01.jpg" alt="NODE" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Npm-01.jpg" alt="NPM" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/PostgreSQL-01.jpg" alt="POSTGRESQL" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/React-01.jpg" alt="REACT" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Redux-01.jpg" alt="REDUX" heigh="100px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Sequelize-01.jpg" alt="SEQ" heigh="100px"></img>
 
 <!--
 **Naotari/Naotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
