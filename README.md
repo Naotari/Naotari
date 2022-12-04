@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Frandel Rodriguez!
 
-<h1>Titulo 1<h1>
-<h6>Titulo 2<h6>
+<h1>Hi there 👋 My name is Frandel Rodriguez!<h1>
+<h3>I'm a Full Stack Developer from Guatemala<h3>
 
 
 <!--
