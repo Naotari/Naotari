@@ -1,8 +1,10 @@
 ### Hi there 👋 My name is Frandel Rodriguez!
 
-<h1>Hi there 👋 My name is Frandel Rodriguez!<h1>
+<h1>Hi there 👋 My name is Frandel Rodriguez!</h1>
+
+<img src="https://github.com/Naotari/Naotari/blob/master/code.gif" alt="coding" width="500"></img>
   
-<h3>I'm a Full Stack Developer from Guatemala<h3>
+<h3>I'm a Full Stack Developer from Guatemala</h3>
 
 Tecnologies:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
