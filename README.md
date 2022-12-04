@@ -7,16 +7,16 @@
 <h3>I'm a Full Stack Developer from Guatemala</h3>
 
 Tecnologies:
-<img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/CSS-3-01.jpg" alt="CSS" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/HTML-5-logo-vector-01.jpg" alt="HTML" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/JavaScript-01.jpg" alt="JS" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/Node-JS-01.jpg" alt="NODE" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/Npm-01.jpg" alt="NPM" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/PostgreSQL-01.jpg" alt="POSTGRESQL" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/React-01.jpg" alt="REACT" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/Redux-01.jpg" alt="REDUX" heigh="10px"></img>
-<img src="https://github.com/Naotari/Naotari/blob/master/Sequelize-01.jpg" alt="SEQ" heigh="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/CSS-3-01.jpg" alt="CSS" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/HTML-5-logo-vector-01.jpg" alt="HTML" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/JavaScript-01.jpg" alt="JS" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Node-JS-01.jpg" alt="NODE" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Npm-01.jpg" alt="NPM" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/PostgreSQL-01.jpg" alt="POSTGRESQL" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/React-01.jpg" alt="REACT" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Redux-01.jpg" alt="REDUX" height="10px"></img>
+<img src="https://github.com/Naotari/Naotari/blob/master/Sequelize-01.jpg" alt="SEQ" height="10px"></img>
 
 <!--
 **Naotari/Naotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
