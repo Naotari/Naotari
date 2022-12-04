@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 My name is Frandel Rodriguez!
+
+<h1>Titulo 1<h1>
+<h6>Titulo 2<h6>
+
 
 <!--
 **Naotari/Naotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
