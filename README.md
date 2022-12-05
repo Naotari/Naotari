@@ -1,4 +1,3 @@
-### Hi there 👋 My name is Frandel Rodriguez!
 
 <h1>Hi there 👋 My name is Frandel Rodriguez!</h1>
 
