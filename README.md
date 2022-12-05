@@ -5,7 +5,7 @@
   
 <h3>I'm a Full Stack Developer from Guatemala</h3>
 <a href="https://www.linkedin.com/in/frandel-rodriguez/"><img src="https://github.com/Naotari/Naotari/blob/master/174857.png" alt="linkedin" height="50px"></img></a>
-<p>Mi correo:</p><a href="frandel321@hotmail.com">frandel321@hotmail.com</a>
+<p>Mi correo:</p><a>frandel321@hotmail.com</a>
 
 <h3>Technologies:</h3>
 <div>
