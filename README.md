@@ -1,5 +1,5 @@
 
-<h1>Hi there 👋 My name is Frandel Rodriguez!</h1>
+<h1>Hi there 👋 I'm Frandel Rodriguez!</h1>
 
 <img src="https://github.com/Naotari/Naotari/blob/master/code.gif" alt="coding" width="500"></img>
   
