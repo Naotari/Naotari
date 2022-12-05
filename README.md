@@ -5,7 +5,7 @@
 <img src="https://github.com/Naotari/Naotari/blob/master/code.gif" alt="coding" width="500"></img>
   
 <h3>I'm a Full Stack Developer from Guatemala</h3>
-<a href="https://en.wikipedia.org/wiki/Cat"><img src="https://github.com/Naotari/Naotari/blob/master/174857.png" alt="linkedin" height="50px"></img></a>
+<a href="https://www.linkedin.com/in/frandel-rodriguez/"><img src="https://github.com/Naotari/Naotari/blob/master/174857.png" alt="linkedin" height="50px"></img></a>
 
 <h3>Tecnologies:</h3>
 <div>
