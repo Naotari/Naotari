@@ -24,6 +24,11 @@
 <h3>Projects:</h3>
 <p>Pending</p>
 
+
+
+<h3>My stats:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naotari)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Naotari/Naotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
