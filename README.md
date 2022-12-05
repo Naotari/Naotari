@@ -20,7 +20,7 @@
   <img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" height="50px"></img>
 </div>
 
-<h3>Proyects:</h3>
+<h3>Projects:</h3>
 <p>Pending</p>
 
 <!--
