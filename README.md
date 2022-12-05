@@ -6,7 +6,7 @@
 <h3>I'm a Full Stack Developer from Guatemala</h3>
 <a href="https://www.linkedin.com/in/frandel-rodriguez/"><img src="https://github.com/Naotari/Naotari/blob/master/174857.png" alt="linkedin" height="50px"></img></a>
 
-<h3>Tecnologies:</h3>
+<h3>Technologies:</h3>
 <div>
   <img src="https://github.com/Naotari/Naotari/blob/master/JavaScript-01.jpg" alt="JS" height="50px"></img>
   <img src="https://github.com/Naotari/Naotari/blob/master/React-01.jpg" alt="REACT" height="50px"></img>
