@@ -19,6 +19,10 @@
   <img src="https://github.com/Naotari/Naotari/blob/master/PostgreSQL-01.jpg" alt="POSTGRESQL" height="50px"></img>
   <img src="https://github.com/Naotari/Naotari/blob/master/Cloudinary-01.jpg" alt="cloudinary" height="50px"></img>
 </div>
+
+<h3>Proyects:</h3>
+<p>Pending</p>
+
 <!--
 **Naotari/Naotari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
